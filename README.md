@@ -8,7 +8,6 @@ This repository contains my Java learning journey.
 - Control Flow
 - Methods
 - Arrays
-- OOP
 
 ## Goal
 Build strong Java fundamentals before starting DSA.
